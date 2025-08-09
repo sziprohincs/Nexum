@@ -1,0 +1,34 @@
+Nexum Bot - Gizlilik Politikası
+Son Güncelleme Tarihi: 9 Ağustos 2025
+
+Bu Gizlilik Politikası, Nexum ("Bot", "biz", "bizim") Discord botunun, kullanıcılarımızın ("sen", "senin") verilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır. Botumuzu sunucunuza ekleyerek ve kullanarak bu politikada belirtilen uygulamaları kabul etmiş olursunuz.
+
+1. Topladığımız Bilgiler
+Nexum, temel işlevlerini yerine getirebilmek için aşağıdaki bilgileri toplar ve saklar:
+Sunucu Bilgileri: Sunucu ID'si, sunucu adı, sunucu ayarları (örneğin, yapılandırılmış kanallar, roller). Bu bilgiler, botun her sunucuda doğru ve kişiselleştirilmiş bir şekilde çalışması için gereklidir.
+Kullanıcı Bilgileri: Kullanıcı ID'si. Komutları kimin kullandığını ve belirli izinlere sahip olup olmadığını anlamak için bu bilgiye ihtiyaç duyarız. Kullanıcı adları veya avatarlar gibi kişisel bilgiler kalıcı olarak saklanmaz, yalnızca komut anında geçici olarak kullanılır.
+Kanal ve Rol Bilgileri: Kanal ID'leri ve Rol ID'leri. Belirli komutların doğru kanallarda çalışması veya belirli rollere sahip kullanıcılara özel işlevler sunmak için bu bilgiler gereklidir.
+
+2. Bilgileri Nasıl Kullanıyoruz?
+Topladığımız veriler yalnızca aşağıdaki amaçlar için kullanılır:
+Botun Temel İşlevselliği: Komutları işlemek, moderasyon yapmak, ayarları kaydetmek ve botun sunucunuzda beklendiği gibi çalışmasını sağlamak.
+Kişiselleştirme: Her sunucunun kendine özgü ayarlarını (örneğin, karşılama mesajları, komut ön ekleri) saklamak ve uygulamak.
+Destek ve Geliştirme: Karşılaşılan hataları gidermek, botun performansını analiz etmek ve yeni özellikler geliştirmek.
+
+3. Bilgilerin Paylaşımı
+Verilerinizi sizin izniniz olmadan üçüncü taraflarla kesinlikle paylaşmıyor veya satmıyoruz. Veriler, yalnızca botun barındırıldığı güvenli sunucularda saklanır ve bu verilere yalnızca Nexum Geliştirici Ekibi erişebilir. Yasal bir zorunluluk olması durumunda, yetkili makamların talebi üzerine veri paylaşımı yapılabilir.
+
+4. Veri Saklama Süresi
+Bot sunucunuzdan atıldığında, o sunucuyla ilişkili tüm veriler (sunucu ayarları, vb.) makul bir süre içinde sistemlerimizden silinir. Kullanıcı verileri, botun işlevselliği için gerekli olduğu sürece saklanır.
+
+5. Haklarınız
+Verilerinizin bir kopyasını talep etme veya silinmesini isteme hakkına sahipsiniz. Bu tür talepler için lütfen resmi destek sunucumuz üzerinden veya doğrudan Nexum Geliştirici Ekibi ile iletişime geçin.
+
+6. Çocukların Gizliliği
+Botumuz, Discord'un Hizmet Şartları'na uygun olarak 13 yaş ve üzeri kullanıcılara yöneliktir. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyoruz.
+
+7. Politikadaki Değişiklikler
+Bu Gizlilik Politikası'nı zaman zaman güncelleyebiliriz. Önemli değişiklikler olduğunda sizi bilgilendireceğiz. Politikayı düzenli olarak gözden geçirmek sizin sorumluluğunuzdadır.
+
+8. İletişim
+Herhangi bir sorunuz veya endişeniz varsa, lütfen [https://discord.gg/QJHdS6r38m] adresinden veya doğrudan Nexum Geliştirici Ekibi ile iletişime geçmekten çekinmeyin.
