@@ -1,0 +1,25 @@
+Nexum Bot - Hizmet Şartları
+Son Güncelleme Tarihi: 9 Ağustos 2025
+
+Bu Hizmet Şartları ("Şartlar"), Nexum ("Bot") botunun kullanımını düzenler. Botu bir Discord sunucusuna ekleyerek veya komutlarını kullanarak bu Şartları kabul etmiş olursunuz.
+
+1. Botun Kullanımı
+Botu, spam yapmak, diğer kullanıcılara veya sunuculara zarar vermek, Discord'un Hizmet Şartları'nı veya Topluluk Kuralları'nı ihlal etmek gibi kötü niyetli amaçlarla kullanamazsınız.
+Botun çalışmasını kasıtlı olarak engellemeye veya güvenlik açıklarından faydalanmaya çalışmak yasaktır.
+Botun komutlarını, botun veya sunucunun performansını olumsuz etkileyecek şekilde aşırı ve otomatik bir biçimde kullanamazsınız (rate limiting).
+
+2. Sorumluluk Reddi
+Nexum botu "olduğu gibi" sunulmaktadır. Botun kesintisiz, hatasız veya tamamen güvenli olacağını garanti etmiyoruz. Bakım, güncellemeler veya teknik sorunlar nedeniyle geçici kesintiler yaşanabilir.
+Botun kullanımından kaynaklanan herhangi bir veri kaybı, sunucu içi sorun veya diğer zararlardan Nexum Geliştirici Ekibi sorumlu tutulamaz. Botu kullanmanın riski tamamen size aittir.
+
+3. Fikri Mülkiyet
+Botun kaynak kodu, markası ve logosu Nexum Geliştirici Ekibi'ne aittir. Geliştiricinin izni olmadan botu kopyalamak, dağıtmak veya değiştirmek yasaktır.
+
+4. Hizmetin Sonlandırılması
+Bu Şartları ihlal etmeniz durumunda, bildirimde bulunmaksızın botu kullanımınızı veya botun sunucunuzdaki hizmetini sonlandırma hakkımızı saklı tutarız. Ayrıca, herhangi bir zamanda ve herhangi bir nedenle botun hizmetini tamamen durdurma hakkımız saklıdır.
+
+5. Şartlardaki Değişiklikler
+Bu Hizmet Şartları'nı zaman zaman güncelleyebiliriz. Değişiklikler yapıldığında sizi bilgilendirmeye çalışacağız. Botu kullanmaya devam ederek güncellenmiş Şartları kabul etmiş sayılırsınız.
+
+6. İletişim
+Bu Şartlar ile ilgili sorularınız için lütfen [https://discord.gg/QJHdS6r38m] adresinden veya Nexum Geliştirici Ekibi ile doğrudan iletişime geçin.
